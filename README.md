@@ -1,20 +1,41 @@
-# meditate
+# Keela - Your Mindfulness Companion
 
-A new Flutter project.
+Keela is an all-in-one mindfulness companion designed to help you find peace, clarity, and balance in your daily life. With features like meditation, journaling, and affirmations, Keela empowers you to cultivate emotional well-being and self-awareness.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+### Meditation
+- Explore guided meditation sessions for relaxation, stress reduction, and focus enhancement.
+- Customize sessions based on duration and technique.
 
-A few resources to get you started if this is your first Flutter project:
+### Journaling
+- Capture thoughts, feelings, and reflections in a private and secure journaling space.
+- Track emotions, record memorable moments, and gain insights into mental and emotional well-being.
+- Utilize customizable prompts and unlimited entry options for a personalized journaling experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Affirmations
+- Receive daily uplifting messages to boost self-confidence, resilience, and optimism.
+- Explore a diverse collection of affirmations covering various aspects of life.
+- Manifest goals with confidence and clarity through positive affirmations.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# keela
-# keela
-# keela
-# keela
+## Installation
+1. Clone the repository: `git clone https://github.com/aerovvs/keela.git`
+2. Navigate to the project directory: `cd keela`
+3. Install dependencies: `flutter pub get`
+4. Run the app: `flutter run`
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to Keela, please follow these steps:
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/your-feature`
+3. Make your changes.
+4. Commit your changes: `git commit -m 'Add some feature'`
+5. Push to the branch: `git push origin feature/your-feature`
+6. Submit a pull request.
+
+## Download
+You can download Keela on the [Google Play Store](https://play.google.com/store/apps/details?id=edu.cpp.meditate).
+
+## Credits
+Keela is developed by CJ Hosea and dedicated to my girlfriend, Keela. 
+
